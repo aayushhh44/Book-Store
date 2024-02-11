@@ -21,6 +21,7 @@ Welcome to the MERN Stack Book Store project! This web application allows users 
 
 4. **Read Book**: View a list of all books in the store and click on individual books to see detailed information.
 
+
 ## Technologies Used
 
 - **MongoDB**: Database to store book information.
@@ -30,6 +31,9 @@ Welcome to the MERN Stack Book Store project! This web application allows users 
 - **Mongoose**: MongoDB object modeling for Node.js.
 - **Axios**: Promise-based HTTP client for making requests to the backend API.
 
+  ![image](https://github.com/aayushhh44/Book-Store/assets/110235375/ca7f4353-2324-4ec0-b4d1-9772376fc161)
+
+
 ## Setup
 
 1. Clone the repository:
@@ -37,3 +41,6 @@ Welcome to the MERN Stack Book Store project! This web application allows users 
 ```bash
 git clone https://github.com/your-username/mern-book-store.git
 cd mern-book-store
+
+
+
