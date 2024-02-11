@@ -33,22 +33,22 @@ Welcome to the MERN Stack Book Store project! This web application allows users 
 
 
 # Screenshots
-##Homepage:
+## Homepage:
   *Homepage: Table mode*
   ![image](https://github.com/aayushhh44/Book-Store/assets/110235375/ca7f4353-2324-4ec0-b4d1-9772376fc161)
   *Homepage: Card mode*
   ![image](https://github.com/aayushhh44/Book-Store/assets/110235375/0a36a571-d7c7-4997-a81f-d0f2f0f9d428)
 
-##Create Book page:
+## Create Book page:
   ![image](https://github.com/aayushhh44/Book-Store/assets/110235375/70fce2fd-a2cb-41a4-aa03-d4710a507b90)
 
-##Update Book page:
+## Update Book page:
   ![image](https://github.com/aayushhh44/Book-Store/assets/110235375/bfe70934-5439-4512-a72c-169c8641ed29)
 
-##Show Book page:
+## Show Book page:
   ![image](https://github.com/aayushhh44/Book-Store/assets/110235375/bc11a819-7ad8-43ec-aca0-5928cfacd4da)
 
-##Delete Book page:
+## Delete Book page:
   ![image](https://github.com/aayushhh44/Book-Store/assets/110235375/5304199c-5a5f-413f-b314-30a61056f3b6)
 
 
